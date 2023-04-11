@@ -2,4 +2,4 @@
 
 Calculator project from TOP
 
-Last assignment from the fundamentals list. Next stop, Ruby on Rails
+Last assignment from the foundations path. Next stop, Ruby on Rails
